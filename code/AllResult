@@ -1,0 +1,131 @@
+------Testing the Product Selection:------------
+for 0th test, the correctness is 0.9444444444444444
+for 1th test, the correctness is 1.0
+for 2th test, the correctness is 1.0
+for 3th test, the correctness is 1.0
+for 4th test, the correctness is 0.8888888888888888
+for 5th test, the correctness is 0.8888888888888888
+for 6th test, the correctness is 0.9444444444444444
+for 7th test, the correctness is 0.8333333333333334
+for 8th test, the correctness is 0.7777777777777778
+for 9th test, the correctness is 0.8888888888888888
+Testing through cross validation, The accuracy is: 0.9166666666666667
+
+----------To get labels of those test data---------
+C1
+C1
+C1
+C1
+C2
+C2
+C2
+C2
+C3
+C3
+C3
+C3
+C5
+C4
+C4
+C4
+C4
+C4
+C5
+C5
+C5
+------Testing the Product Introduction_Binary file:------------
+for 0th test, the correctness is 0.9375
+for 1th test, the correctness is 0.9375
+for 2th test, the correctness is 0.875
+for 3th test, the correctness is 1.0
+for 4th test, the correctness is 1.0
+for 5th test, the correctness is 1.0
+for 6th test, the correctness is 1.0
+for 7th test, the correctness is 1.0
+for 8th test, the correctness is 0.8125
+for 9th test, the correctness is 0.9375
+Testing through cross validation, The accuracy is: 0.95
+
+----------To get labels of those test data---------
+1
+1
+1
+1
+0
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+0
+0
+0
+1
+------Testing the Product Introduction, to Get real Score:------------
+----------To get score of those test data---------
+21.542
+23.588
+27.645999999999997
+28.125999999999998
+20.666000000000004
+21.798000000000002
+21.616
+19.266
+32.166
+32.078
+31.657999999999998
+33.63
+31.365999999999996
+33.294000000000004
+32.7
+16.488
+14.35
+15.868
+12.411999999999999
+15.642000000000001
+16.308
+16.836000000000002
+21.497999999999998
+17.744
+16.610000000000003
+17.976
+16.81
+15.872
+17.104000000000003
+17.156
+33.894
+41.232
+38.438
+36.809999999999995
+31.844
+33.562
+22.998000000000005
+16.448
+17.466
+36.064
