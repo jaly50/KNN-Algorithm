@@ -9,8 +9,12 @@ KNN part &amp; reports for Data Mining task 11
 
 File introduction:
 	Vector.java is instance, it represents each records
+	
 	DataSet.java represents an arff file, it stores attributes, attributes value list, instances, whether an attribute is discrete
+	
 	CrossValidation.java: To get accuracy of cross validation
+	
 	Knn.java: the main knn algorithm
+	
 	
 For more detail information, please refer comments at the top of  each file
