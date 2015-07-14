@@ -8,6 +8,7 @@ KNN part &amp; reports for Data Mining task 11
 
 
 File introduction:
+
 	Vector.java is instance, it represents each records
 	
 	DataSet.java represents an arff file, it stores attributes, attributes value list, instances, whether an attribute is discrete
